@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"backdrop",
+  "%Name":"hud",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"backdrop",
+  "name":"hud",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"bg_campus_day",
-    "path":"sprites/bg_campus_day/bg_campus_day.yy",
+    "name":"spr_npc_chloe",
+    "path":"sprites/spr_npc_chloe/spr_npc_chloe.yy",
   },
   "spriteMaskId":null,
   "visible":true,
